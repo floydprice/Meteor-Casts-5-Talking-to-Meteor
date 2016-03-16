@@ -1,0 +1,21 @@
+{
+  "name": "5-communicating-with-meteor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "6to5ify": "^4.1.1",
+    "asteroid": "^2.0.2",
+    "browserify": "^13.0.0",
+    "lodash": "^4.6.1",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "watchify": "^3.7.0"
+  }
+}
